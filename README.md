@@ -24,7 +24,7 @@ This game was made using the [Godot Engine](https://godotengine.org/), make sure
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/FrostHorn.git
+   git clone https://github.com/FrostHornGame/FrostHorn.git
    ```
 
 2. Open the project in Godot:
