@@ -1,6 +1,7 @@
 # FrostHorn Game Assets License
-
 **Version 1.0** | *Effective: 10/04/2025*
+
+Copyright (C) 2025 FrostHorn's Game Studio
 
 ## Overview
 All graphical, audio, and other creative assets (collectively referred to as the "Assets") contained within the `/assets` directory and any subdirectories thereof are the exclusive intellectual property of FrostHorn's Game Studio. These Assets are distinct from the software code and are subject to the following specific terms and conditions.
