@@ -51,11 +51,11 @@ We welcome contributions to FrostHorn! If you'd like to help improve the game, f
     - Include necessary explanation for complex changes.
     - Use the correct tag.
 
-We will only accept contributions via Pull Requests and would appreciate if you came to us to discuss about what you want to implement or contribute to, because if it hasn't been done it may ne for a reason.
+We will only accept contributions via Pull Requests and would appreciate if you came to us to discuss about what you want to implement or contribute to, because if it hasn't been done it may be for a reason.
 
 ## License
 
-**FrostHorn** is release under a custom license. Please see [LICENSE](./LICENSE.md) for more details.
+**FrostHorn** is released under a custom license. Please see [LICENSE](./LICENSE.md) for more details.
 
 The game assets (graphics, sounds, etc...) are subject to a separate license. Please see [ASSETS_LICENSE](./ASSETS_LICENSE.md) file for more details.
 
