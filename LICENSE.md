@@ -1,11 +1,11 @@
 # FrostHorn Source Code License
 **Version 1.0** | *Effective: 10/04/2025*
 
-Copyright (C) 2025 FrostHorn's Game Studio
+Copyright (C) 2025 U-Night
 
 ## Grant of Rights
 
-The source code of FrostHorn (the "Software") is made available by FrostHorn's Game Studio (the "Licensor") under the following terms. Subject to compliance with this agreement, you are granted a worldwide, royalty-free, non-exclusive license to use the Software for non-commercial purposes.
+The source code of FrostHorn (the "Software") is made available by Unight (the "Licensor") under the following terms. Subject to compliance with this agreement, you are granted a worldwide, royalty-free, non-exclusive license to use the Software for non-commercial purposes.
 
 ## Permitted Activities
 
@@ -39,7 +39,7 @@ All copyrights in the original Software are retained by the Licensor. This licen
 
 ## License Compatibility
 
-This license applies solely to the original source code developed by FrostHorn's Game Studio. Any third-party libraries or dependencies used in the Software are governed by their respective licenses. You must comply with those licenses independently. This license does not supersede or restrict any rights granted under such third-party licenses.
+This license applies solely to the original source code developed by U-Night. Any third-party libraries or dependencies used in the Software are governed by their respective licenses. You must comply with those licenses independently. This license does not supersede or restrict any rights granted under such third-party licenses.
 
 ## Version Evolution
 

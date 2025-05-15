@@ -1,6 +1,6 @@
 # AUTHORS
 
-## Core Team – [Game Studio]
+## Core Team – U-Night
 
 - Eliott Dagostinoz, a.k.a. NeyZzO — *Project Lead*, Game designer, Programmer
 - Otman Benbouziane, a.k.a. soupe — Game designer, Programmer, Artist
