@@ -1,10 +1,10 @@
 # FrostHorn Game Assets License
 **Version 1.0** | *Effective: 10/04/2025*
 
-Copyright (C) 2025 FrostHorn's Game Studio
+Copyright (C) 2025 U-Night
 
 ## Overview
-All graphical, audio, and other creative assets (collectively referred to as the "Assets") contained within the `/assets` directory and any subdirectories thereof are the exclusive intellectual property of FrostHorn's Game Studio. These Assets are distinct from the software code and are subject to the following specific terms and conditions.
+All graphical, audio, and other creative assets (collectively referred to as the "Assets") contained within the `/assets` directory and any subdirectories thereof are the exclusive intellectual property of U-Night ("FrostHorn's Game Studio"). These Assets are distinct from the software code and are subject to the following specific terms and conditions.
 
 ## Limited Permission Grant
 By accessing these Assets, you are granted a limited, non-transferable permission to:
@@ -33,12 +33,12 @@ In all forks, builds, or public uses of the game that include the Assets:
 
 1. The original copyright notice must be preserved.
 
-2. Proper attribution to FrostHorn's Game Studio must be clearly displayed.
+2. Proper attribution to U-Night must be clearly displayed.
 
 3. Any modifications to the Assets must be clearly documented and attributed to their respective authors.
 
 ## Enforcement
-Unauthorized use of the Assets constitutes copyright infringement and intellectual property theft. FrostHorn's Game Studio reserves all rights to pursue legal remedies against violations of this license, including but not limited to:
+Unauthorized use of the Assets constitutes copyright infringement and intellectual property theft. U-Night reserves all rights to pursue legal remedies against violations of this license, including but not limited to:
 
 1. Demands for immediate cessation of unauthorized use
 2. Claims for monetary damages

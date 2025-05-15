@@ -60,7 +60,7 @@ We will only accept contributions via Pull Requests and would appreciate if you 
 The game assets (graphics, sounds, etc...) are subject to a separate license. Please see [ASSETS_LICENSE](./ASSETS_LICENSE.md) file for more details.
 
 ## Authors
-Frost horn is maintained by FrostHorn's Game Studio. For the list of authors and contributors please refer to [Authors.md](./AUTHORS.md) file.
+Frosthorn is maintained by Unight. For the list of authors and contributors please refer to [AUTHORS.md](./AUTHORS.md) file.
 
 ## Acknowledgements
 We'd like to thank the following for their support and contribution:
