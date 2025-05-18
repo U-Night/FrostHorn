@@ -1,18 +1,18 @@
 # FrostHorn Source Code License
-**Version 1.0** | *Effective: 10/04/2025*
+
+**Version 1.0** | _Effective: 10/04/2025_
 
 Copyright (C) 2025 U-Night
 
 ## Grant of Rights
 
-The source code of FrostHorn (the "Software") is made available by Unight (the "Licensor") under the following terms. Subject to compliance with this agreement, you are granted a worldwide, royalty-free, non-exclusive license to use the Software for non-commercial purposes.
+The source code of FrostHorn (the "Software") is made available by U-Night (the "Licensor") under the following terms. Subject to compliance with this agreement, you are granted a worldwide, royalty-free, non-exclusive license to use the Software for non-commercial purposes.
 
 ## Permitted Activities
 
 You may study, modify, and experiment with the Software for personal or educational purposes. Contribution is made by official channels via pull requests. Modified versions may be distributed provided they: (a) retain the original project name and identity; (b) include this license in its entirety; (c) clearly attribute the original authorship; (d) link to the official repository; (e) explicitly state that they are not the official version and clearly describe all modifications; (f) are not presented or distributed as standalone, rebranded, or independent projects.
 
 Distribution of compiled or binary forms of the Software is permitted only if they comply with the same terms as the source code, including attribution and non-commercial use.
-
 
 ## Commercial Restrictions
 
@@ -21,13 +21,13 @@ The Software may not be used, in whole or in part, for any commercial purpose wi
 ## Definition of Commercial Use
 
 "Commercial use" refers to any activity intended for or directed toward commercial advantage, monetary compensation, or financial gain. This includes, but is not limited to:
+
 - Selling the Software or access to it;
 - Incorporating the Software into paid products or services;
 - Hosting paid servers, mods, or add-ons using the Software;
 - Offering the Software as part of a commercial bundle or subscription.
 
 Use for personal projects, educational purposes, or unpaid hobbyist development is not considered commercial.
-
 
 ## Derivative Works Policy
 
@@ -44,7 +44,6 @@ This license applies solely to the original source code developed by U-Night. An
 ## Version Evolution
 
 This license applies only to the version of the Software distributed under it. Future versions of the Software may be released under a different license; however, such changes will not be retroactively applied. Copies of the Software obtained under a specific version of this license remain governed by the terms of that version, unless explicitly stated otherwise by the Licensor or agreed upon by the user.
-
 
 ## Contribution Terms
 
