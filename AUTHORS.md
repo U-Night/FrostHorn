@@ -8,7 +8,7 @@
 - Gabriel Luit-Tran, a.k.a. Gabycretin — Game designer, Programmer
 - Pierrick Drouet De La Thibauderie, a.k.a. Rickolaa — Game designer, Programmer
 - Lucas Pausé-Chapuis, a.k.a. ScreanDev — Game designer, Programmer, Music & Sound, Story Team
-- Malcolm Trepon - Music & Sound, Story Team
+- Malcolm Trepon — Music & Sound, Story Team
 
 ## Contributors
 
